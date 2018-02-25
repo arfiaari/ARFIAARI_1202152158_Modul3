@@ -14,7 +14,7 @@
             android:id="@+id/logo"
             android:layout_width="350dp"
             android:layout_height="350dp"
-            android:src="@drawable/capture"
+            android:src="@drawable/logo"
             android:layout_gravity="center"/>
 
     </LinearLayout>

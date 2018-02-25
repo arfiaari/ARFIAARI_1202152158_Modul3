@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        getSupportActionBar().setTitle("Sample2");
+        getSupportActionBar().setTitle("ARFIAARI_1202152158_Modul3");
 
         recyclerView = (RecyclerView) findViewById(R.id.recyclerView);
         mAdapter = new RecyclerViewAdapter(minumanList);
